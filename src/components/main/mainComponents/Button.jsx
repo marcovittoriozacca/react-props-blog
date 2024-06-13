@@ -1,12 +1,8 @@
 import style from "./Button.module.css";
 
-const Button = ({link}) => {
+const Button = () => {
     return(
-        <>
-            <a href={link} target="_blank">
-                <button className={style.button}>leggi di più</button>
-            </a>
-        </>
+        <button className={style.button}>leggi di più</button>
     )
 }
 

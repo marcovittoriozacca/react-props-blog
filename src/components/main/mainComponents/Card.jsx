@@ -2,7 +2,7 @@ import Button from "./Button";
 import style from "./Card.module.css";
 
 const Card = ({post}) => {
-    const {image, title, content, link} = post
+    const {image, title, content, tags, published} = post
     return (
         <>
             <div className={style.card}>
@@ -12,9 +12,7 @@ const Card = ({post}) => {
                 <div className={style.cardBody}>
                     <h3>{ title }</h3>
                     <p>{ content }</p>
-                    <Button
-                        link={link}
-                    />
+                    <Button/>
                 </div>
 
             </div>
