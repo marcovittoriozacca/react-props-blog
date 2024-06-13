@@ -26,3 +26,30 @@
 .cardBody p {
     line-height: 140%;
 }
+.tagsWrapper{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    text-transform: uppercase;
+}
+
+.singleTagBox{
+    padding: 5px 15px;
+    border: .5px solid lightgray;
+}
+
+.html{
+    color: #dd4b25;
+}
+.css{
+    color: #2862e9;
+}
+.js{
+    color: #efd81d;
+}
+.php{
+    color: #7a86b8;
+}
+.default{
+    color: black;
+}

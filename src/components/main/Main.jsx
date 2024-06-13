@@ -11,7 +11,7 @@ const Main = () => {
                 <ul className={style.postsList}>
                 {posts.map((post, index) => (
                     post.published && 
-                    <li key={post.id}>
+                    <li key={`postElement-${post.id}`}>
                         <Card 
                             post={post}
                         />
