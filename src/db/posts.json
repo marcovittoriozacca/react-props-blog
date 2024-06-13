@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "image": "https://picsum.photos/seed/picsum/500/300",
+        "title": "Come migliorare la produttivit\u00e0",
+        "content": "Scopri come aumentare la tua produttivit\u00e0 con questi semplici consigli.",
+        "link": "http://example.com/produttivita"
+    },
+    {
+        "id": 2,
+        "image": "https://picsum.photos/seed/picsum/500/300",
+        "title": "10 ricette facili per la cena",
+        "content": "Ecco dieci ricette facili e veloci per preparare una cena deliziosa.",
+        "link": "http://example.com/ricette-cena"
+    },
+    {
+        "id": 3,
+        "image": "https://picsum.photos/seed/picsum/500/300",
+        "title": "Guida completa al workout a casa",
+        "content": "Segui questa guida per allenarti efficacemente a casa senza attrezzi.",
+        "link": "http://example.com/workout-casa"
+    },
+    {
+        "id": 4,
+        "image": "https://picsum.photos/seed/picsum/500/300",
+        "title": "I migliori libri da leggere nel 2024",
+        "content": "Una lista dei migliori libri da leggere quest'anno per ispirarti e intrattenerti.",
+        "link": "http://example.com/libri-2024"
+    },
+    {
+        "id": 5,
+        "image": "https://picsum.photos/seed/picsum/500/300",
+        "title": "Consigli per viaggiare low cost",
+        "content": "Trucchi e consigli per viaggiare spendendo poco e godendosi l'esperienza.",
+        "link": "http://example.com/viaggiare-low-cost"
+    },
+    {
+        "id": 6,
+        "image": "https://picsum.photos/seed/picsum/500/300",
+        "title": "Come iniziare a investire in borsa",
+        "content": "Una guida per principianti su come iniziare a investire nel mercato azionario.",
+        "link": "http://example.com/investire-borsa"
+    },
+    {
+        "id": 7,
+        "image": "https://picsum.photos/seed/picsum/500/300",
+        "title": "Tecniche di meditazione per principianti",
+        "content": "Scopri come iniziare a meditare con queste tecniche semplici e efficaci.",
+        "link": "http://example.com/meditazione-principianti"
+    },
+    {
+        "id": 8,
+        "image": "https://picsum.photos/seed/picsum/500/300",
+        "title": "Come imparare una nuova lingua rapidamente",
+        "content": "Metodi e risorse per imparare una nuova lingua in modo veloce ed efficace.",
+        "link": "http://example.com/imparare-lingua"
+    },
+    {
+        "id": 9,
+        "image": "https://picsum.photos/seed/picsum/500/300",
+        "title": "Le migliori app per la gestione del tempo",
+        "content": "Una lista delle migliori app che ti aiutano a gestire il tuo tempo e le tue attivit\u00e0.",
+        "link": "http://example.com/app-gestione-tempo"
+    },
+    {
+        "id": 10,
+        "image": "https://picsum.photos/seed/picsum/500/300",
+        "title": "Strategie per migliorare la salute mentale",
+        "content": "Scopri strategie e consigli per migliorare la tua salute mentale e il tuo benessere.",
+        "link": "http://example.com/salute-mentale"
+    }
+]

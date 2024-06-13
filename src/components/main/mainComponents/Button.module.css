@@ -1,0 +1,8 @@
+.button{
+    text-transform: uppercase;
+    padding: 10px 20px;
+    background: #daa521;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

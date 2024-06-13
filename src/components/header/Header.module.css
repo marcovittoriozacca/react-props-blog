@@ -1,0 +1,8 @@
+.appHeader{
+    padding-block: 1.5rem;
+}
+
+.appHeader h1{
+    text-align: center;
+    font-size: 2.3rem;
+}
