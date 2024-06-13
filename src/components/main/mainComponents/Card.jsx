@@ -7,7 +7,7 @@ const Card = ({post}) => {
         <>
             <div className={style.card}>
                 <figure>
-                    <img src={ image } alt="template-image" />
+                    <img src={ image || "https://placehold.co/600x400" } alt="template-image" />
                 </figure>
                 <div className={style.cardBody}>
                     <h3>{ title }</h3>
