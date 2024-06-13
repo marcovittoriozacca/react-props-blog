@@ -30,7 +30,18 @@ const Card = ({post}) => {
                     <p>{ content }</p>
                     <div className={style.tagsWrapper}>
                         {tags.map((tag,index) => (
-                            <span key={`tag-${index}`} className={`${setTagColor(tag)} ${style.singleTagBox}`}>{tag}</span>
+                            // imho the best solution
+                            // <span key={`tag-${index}`} className={`${setTagColor(tag)} ${style.singleTagBox}`}>{tag}</span>
+
+                            //ternary operator solution
+                            <span key={`tag-${index}`} 
+                                className = {`${tag === 'html'? style.html : "" ||
+                                            tag === 'css'? style.css : ""  ||
+                                            tag === 'js'? style.js : ""  ||
+                                            tag === 'php'? style.php : style.default }
+                                            ${style.singleTagBox}`
+                                        }
+                            >{tag}</span>
                         ))}
                     </div>
                     <Button/>
